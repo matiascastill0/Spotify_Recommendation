@@ -1,0 +1,19 @@
+# ▸ Entorno virtual
+venv/
+.venv/
+VENV/
+ENV/
+env/
+ENV.bak/
+
+kaggle.json
+**/kaggle.json
+
+__pycache__/
+
+
+
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db

@@ -1,0 +1,10 @@
+# Instalar los paquetes necesarios para correr el proyecto
+pip install nltk pandas scikit-learn librosa Flask numpy
+
+# También se necesita tener instalado el cliente de Kaggle
+pip install kaggle
+
+# Importante:
+# Reemplazar el archivo kaggle.json por el de tu cuenta personal de Kaggle.
+# Podés descargarlo desde: https://www.kaggle.com/account
+# Luego, colocarlo dentro de: data/raw/
